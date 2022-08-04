@@ -1,0 +1,13 @@
+.chores{
+    font: 18.5px Arial, sans-serif;
+    color: darkgreen;
+}
+
+.chores-header{
+    text-decoration: underline;
+}
+
+.chores-list{
+    font-style: italic;
+}
+
